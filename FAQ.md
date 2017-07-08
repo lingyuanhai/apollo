@@ -1,4 +1,4 @@
-# FAQ
+# FAQ what?
 ## I am new to this project, where should I start?
 ### --- If you do not have a vehicle
 If you want to build apollo on your computer, please start with [README.md](https://github.com/ApolloAuto/apollo/blob/master/README.md)
